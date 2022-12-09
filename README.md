@@ -1,5 +1,4 @@
-# ECE 287 PROJECT - FROGGER
-Jacob Gardner and Lucian Pfister
+# ECE 287 PROJECT - FROGGER by Jacob Gardner and Lucian Pfister
 
 All of the verilog files for our project are in the FROGGER_VERILOG_FILES folder.
 
